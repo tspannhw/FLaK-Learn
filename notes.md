@@ -5,6 +5,8 @@ https://docs.confluent.io/platform/current/get-started/platform-quickstart.html
 
 https://developer.confluent.io/courses/apache-flink/stream-processing-exercise/
 
+https://docs.confluent.io/platform/current/get-started/platform-quickstart.html
+
 ### Docker setup
 
 docker pull confluentinc/cp-server:latest
