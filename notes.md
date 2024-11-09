@@ -7,9 +7,22 @@ https://developer.confluent.io/courses/apache-flink/stream-processing-exercise/
 
 https://docs.confluent.io/platform/current/get-started/platform-quickstart.html
 
+https://docs.confluent.io/cloud/current/flink/concepts/overview.html
+
+https://docs.confluent.io/cloud/current/flink/concepts/dynamic-tables.html
+
+https://docs.confluent.io/cloud/current/flink/reference/queries/overview.html#flink-sql-queries
+
+
 ### Docker setup
 
 docker pull confluentinc/cp-server:latest
+
+
+### Confluent CLI
+
+* https://docs.confluent.io/confluent-cli/current/overview.html
+
 
 ### Flink
 
@@ -36,6 +49,7 @@ https://docs.confluent.io/cloud/current/ai/ai-model-inference.html#flink-sql-ai-
 ### Courses
 
 * https://developer.confluent.io/courses/flink-sql/overview/
+* 
 
 
 ### References
